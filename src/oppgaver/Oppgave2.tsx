@@ -1,1 +1,1 @@
-// Opprett et theme
+// Ta en titt på hvordan tailwind sitt default tema er satt opp. Override en variabel.
