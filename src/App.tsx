@@ -1,10 +1,7 @@
 import './App.css'
-import {InfoBox} from "./components/InfoBox/InfoBox.tsx";
-import hello from 'react-i-praksis-pakker-ds';
+import {InfoBox} from "./oppgaver/Oppgave1.tsx";
 
 function App() {
-
-    hello("Helene")
 
   return (
     <>
