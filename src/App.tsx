@@ -1,5 +1,5 @@
 import './App.css'
-import {InfoBox} from "./oppgaver/Oppgave1.tsx";
+import InfoBox from "./oppgaver/Oppgave1.tsx";
 
 function App() {
 

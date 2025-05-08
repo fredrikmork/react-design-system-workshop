@@ -1,7 +1,6 @@
-// Ta temaet i bruk på tvers av prosjektene
+// Ta ibruk themet ditt
 
-// Frem til nå har vi definert themet i App.css, sånn vil vi nok ikke ha det i lengden.
-// Legg themet i en egen fil, for eksempel i mappen designsystem i fila theme.css
-// Ta themet i bruk i App.css med en @import
+// For å passe på at det bare er ditt tema som kan brukes, legg til `--*: initial` på starten av themet ditt.
+// Dette gjør at det bare er utility classene fra ditt theme som kan brukes
 
-// Ressurser
+// Ressurser: https://tailwindcss.com/docs/theme#overriding-the-default-theme

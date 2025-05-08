@@ -1,6 +1,6 @@
-// Ta ibruk themet ditt
+// Override default theme
 
-// For å passe på at det bare er ditt tema som kan brukes, legg til `--*: initial` på starten av themet ditt.
-// Dette gjør at det bare er utility classene fra ditt theme som kan brukes
+// I vårt designsystem ønsker vi å bruke veldig fet skrift. Endre --font-weight-extrabold til å være enda fetere enn 800
+// og ta den i bruk i infoboksen din!
 
 // Ressurser: https://tailwindcss.com/docs/theme#overriding-the-default-theme

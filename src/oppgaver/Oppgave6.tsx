@@ -1,3 +1,7 @@
-// Publiser infoboksen din som en pakke
+// Ta temaet i bruk på tvers av prosjektene
 
-// Bruk guiden fra forrige del av workshopen, og se om du får til å publisere infoboksen som en pakke!
+// Frem til nå har vi definert themet i App.css, sånn vil vi nok ikke ha det i lengden.
+// Legg themet i en egen fil, for eksempel i mappen designsystem i fila theme.css
+// Ta themet i bruk i App.css med en @import
+
+// Ressurser

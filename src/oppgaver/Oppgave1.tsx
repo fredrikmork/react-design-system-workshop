@@ -4,8 +4,10 @@
 
 // Vi bruker tailwind til styling
 
-export const InfoBox = ({infoText}:{infoText: string}) => {
+const InfoBox = ({infoText}:{infoText: string}) => {
     return (<p className="text-primary bg-secondary text-5xl">
         {infoText}
     </p>);
 }
+
+export default InfoBox
