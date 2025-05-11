@@ -32,6 +32,7 @@ export default defineConfig({
     sourcemap: true,
     //Clears the output directory before building.
     emptyOutDir: true,
+    cssCodeSplit: false, // prøver dette for å få med css i bygget
   },
   //react() enables React support.
   //dts() generates TypeScript declaration files (*.d.ts)
