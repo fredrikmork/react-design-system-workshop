@@ -5,9 +5,16 @@
 import './Oppgave7.css'
 
 const InfoBox = ({infoText}:{infoText: string}) => {
-    return (<p className="infobox">
-        {infoText}
-    </p>);
+    return (
+        <>
+            <p className="infobox">
+                {infoText}
+            </p>
+            <p className="infobox">
+                {infoText}
+            </p>
+        </>
+    );
 }
 
 export default InfoBox
