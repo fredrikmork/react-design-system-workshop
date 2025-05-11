@@ -2,7 +2,7 @@
   "name": "helenes-designsystem",
   "private": false,
   "description": "Beksrivelse av pakken din",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
