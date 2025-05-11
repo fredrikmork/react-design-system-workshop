@@ -1,7 +1,7 @@
 {
   "name": "helenes-designsystem",
   "private": false,
-  "description": "Helenes designsystem, som inneholder en tekstboks",
+  "description": "Beksrivelse av pakken din",
   "version": "1.0.8",
   "type": "module",
   "main": "dist/index.umd.js",
