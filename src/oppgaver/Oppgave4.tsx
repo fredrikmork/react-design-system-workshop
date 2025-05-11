@@ -1,4 +1,4 @@
-// Override default theme
+// --- Oppgave 4 - Override default theme ---
 
 // I vårt designsystem ønsker vi å bruke veldig fet skrift. Endre --font-weight-extrabold til å være enda fetere enn 800
 // og ta den i bruk i infoboksen din!

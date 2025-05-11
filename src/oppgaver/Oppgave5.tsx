@@ -1,4 +1,4 @@
-// Ta ibruk themet ditt
+// --- Oppgave 5 - Ta ibruk themet ditt ---
 
 // For å passe på at det bare er ditt tema som kan brukes, legg til `--*: initial` på starten av themet ditt.
 // Dette gjør at det bare er utility classene fra ditt theme som kan brukes
