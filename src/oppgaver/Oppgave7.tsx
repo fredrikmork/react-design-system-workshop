@@ -30,8 +30,8 @@ export default InfoBox
 
 // ---  Oppgave 7.2 - Publiser pakken til npm   ---
 // Ta utgangspunkt i guiden over og guiden fra forrige oppgave, og se om du får til å publisere designsystemet
-// med infoboksen til npm
-// Et par ting du kan tenke på:
+// med infoboksen til npm som i pakke-workshopen.
+// Et par ting du likevel kan tenke på:
 // * Husk å oppdatere navnet på pakken din
 // * I forrige workshop brukte vi tsup til å bygge pakken, denne gangen bruker vi vite. Er det noen forskjeller?
 

@@ -7,6 +7,7 @@
 // desginsystem finner dere for eksempel her:
 
 // https://aksel.nav.no/komponenter
+// https://www.notion.so/bekks/Hvilke-komponenter-b-r-du-ha-i-komponentbiblioteket-ditt-1576bd30854180d8aa81d32fe2ad7771
 
 // Bruk så mye eller lite tid på denne oppgaven som dere vil, dere kan også gjerne komme tilbake til den underveis i
 // workshopen
