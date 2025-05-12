@@ -4,3 +4,5 @@
 // Dette gjør at det bare er utility classene fra ditt theme som kan brukes
 
 // Ressurser: https://tailwindcss.com/docs/theme#overriding-the-default-theme
+
+// Diskuter med sidemannen - når kan dette være nyttig å bruke?

@@ -5,7 +5,7 @@
 
 // --- Oppgave 3 - Extend tailwind sitt default theme ---
 
-// I App.css har vi definert et par fargekoder for designsystemet vårt. Endre på fargene så de blir enda finere og legg
-// til flere fargevalg i themet ditt
+// I App.css har vi definert et par fargekoder for lightmode i designsystemet vårt.
+// Legg til et passende dark-mode-tema og ta det i bruk i komponenten din
 
 // Ressurser: https://tailwindcss.com/docs/theme#extending-the-default-theme

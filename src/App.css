@@ -2,9 +2,8 @@
 
 /*Oppgave 3*/
 @theme {
-  --color-mint-500: #ADEBB3;
-  --color-primary: #115222;
-  --color-secondary: #115272;
+  --color-primary-light: #ADEBB3;
+  --color-secondary-light: #115272;
 }
 
 #root {
