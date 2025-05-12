@@ -32,26 +32,26 @@ export default InfoBox
 // Ta utgangspunkt i guiden over og guiden fra forrige oppgave, og se om du får til å publisere designsystemet
 // med infoboksen til npm som i pakke-workshopen.
 // Et par ting du likevel kan tenke på:
-// * Husk å oppdatere navnet på pakken din
-// * I forrige workshop brukte vi tsup til å bygge pakken, denne gangen bruker vi vite. Er det noen forskjeller?
+// * Husk å oppdatere navnet på pakken din:
+//    * I package.json
+//    * I vite.config.ts
+// * I forrige workshop brukte vi tsc til å bygge pakken, denne gangen bruker vi vite. Er det noen forskjeller?
 
 // Kort oppsummert har vi gjort dette:
-// * Opprett en fil index.ts under source, og eksporter infoboksen fra den
-// * Konfigurer bygging av pakken i vite.config.ts:
-//    * Legg til src/index.ts som entry path for pakken
-//    * Legg til pakkenavnet som navnet på libet som bygges
+// * Opprettet en fil index.ts under source, og eksporter infoboksen fra den
+// * Konfigurert bygging av pakken i vite.config.ts:
+//    * Lagt til src/index.ts som entry path for pakken
+//    * Lagt til pakkenavnet som navnet på biblioteket som bygges
 //    * En del annet snacks som du kan finne mer om her:
 //       https://medium.com/@kaljessy/publish-your-react-library-to-npm-using-vite-136dc81e368d
-// * Oppdater package.json med blant annet:
+// * Oppdatert package.json med blant annet:
 //    * Navn på pakken
 //    * Om pakken skal være public eller private
 //    * Beskrivelse av pakken
 //    * Hvor i pakken koden finnes (/dist)
 //    * Et par andre ting
-// * Oppdater tsconfig.json for å legge til støtte for typescript:
-//    * Legg til "include": ["src", "./index.ts"]
-//    * Legg til "typeRoots": ["./dist/index.d.ts", "node_modules/@types"] i compilerOptions for å fortelle hvor
-//      TypeScript finner typedefinisjoner
+// * Oppdatert tsconfig.json for å legge til støtte for typescript:
+//    * Lagt til "include": ["src", "./index.ts"]
 
 // --- Oppgave 7.2 - Ta en annen gruppe sin kompnent i bruk ---
 // 1. Last ned pakken fra en av de andre gruppene fra npm med
