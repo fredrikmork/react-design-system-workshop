@@ -35,7 +35,7 @@ export default InfoBox
 // * Husk å oppdatere navnet på pakken din:
 //    * I package.json
 //    * I vite.config.ts
-// * I forrige workshop brukte vi tsc til å bygge pakken, denne gangen bruker vi vite. Er det noen forskjeller?
+// * I forrige workshop brukte vi tsc til å bygge pakken, denne gangen bruker vi også vite. Er det noen forskjeller?
 
 // Kort oppsummert har vi gjort dette:
 // * Opprettet en fil index.ts under source, og eksporter infoboksen fra den
@@ -50,7 +50,7 @@ export default InfoBox
 //    * Beskrivelse av pakken
 //    * Hvor i pakken koden finnes (/dist)
 //    * Et par andre ting
-// * Oppdatert tsconfig.json for å legge til støtte for typescript:
+// * Oppdatert tsconfig.json for å fortelle for å kompilere typescriptkode til javascript:
 //    * Lagt til "include": ["src", "./index.ts"]
 
 // --- Oppgave 7.2 - Ta en annen gruppe sin kompnent i bruk ---
