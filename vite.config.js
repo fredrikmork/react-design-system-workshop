@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import path from "path";
+import tailwindcss from "@tailwindcss/vite";
 import dts from "vite-plugin-dts";
 // https://vite.dev/config/
 export default defineConfig({
@@ -34,5 +35,5 @@ export default defineConfig({
     //react() enables React support.
     //dts() generates TypeScript declaration files (*.d.ts)
     //during the build.
-    plugins: [react(), dts()],
+    plugins: [react(), dts(), tailwindcss()],
 });
