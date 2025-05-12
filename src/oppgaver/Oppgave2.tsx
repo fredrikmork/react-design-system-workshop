@@ -1,4 +1,4 @@
-// Lag en struktur for designsystemet ditt.
+// --- Oppgave 2: Lag en struktur for designsystemet ditt ---
 
 // Bruk så mye eller lite tid på denne oppgaven som dere vil
 
