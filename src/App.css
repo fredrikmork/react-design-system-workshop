@@ -2,9 +2,9 @@
 
 /*Oppgave 3*/
 @theme {
-  --color-mint-500: oklch(0.72 0.11 178);
-  --color-primary: oklch(0.58 0.0863 171.53);
-  --color-secondary: oklch(100% 0.1135 171.53);
+  --color-mint-500: #ADEBB3;
+  --color-primary: #115222;
+  --color-secondary: #115272;
 }
 
 #root {
