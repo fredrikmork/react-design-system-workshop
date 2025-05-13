@@ -7,6 +7,7 @@
 
 // Oppgave 7.1:
 // Hvis du vil: bruk litt tid på å gjøre infoboks-komponenten under enda finere enn den allerede er:)
+// Endre navnet på komponenten for å gjøre det enklere å skille mellom de ulike pakkene
 
 import './Oppgave7.css'
 
